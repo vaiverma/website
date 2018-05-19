@@ -9,7 +9,7 @@ body {
 }
 
 .Greeting {
-  font-size: 40px;    
+  font-size: 30px;    
   margin-top: 60px;    
   font-weight: 600;
   font-style: normal;
@@ -17,7 +17,7 @@ body {
 }
 
 .Name {
-  font-size: 60px;  
+  font-size: 40px;  
   padding-top: 20px;
   font-weight: 600;
   color: #333333;
@@ -50,7 +50,7 @@ body {
   line-height: 200px;
   text-align: center;  
   color:white;
-  font-weight: bold;
+  font-weight: 400;
   cursor: pointer;
   -webkit-transition: transform 0.2s; /* Safari */
   transition: transform 0.2s;
